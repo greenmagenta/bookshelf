@@ -121,6 +121,8 @@ You can configure many website behaviors by editing `config/config.json`.
 
 ### Indexing pages
 
+You can configure sections and pages indexing by editing `config/config.json`.
+
 ```json
 {
   "index":[
