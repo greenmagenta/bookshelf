@@ -210,6 +210,8 @@ doc
         └── default.css
 ```
 
+If you're using FTP pushes, take a look at [git-ftp](https://github.com/git-ftp/git-ftp).
+
 ## License
 
 [GPL-3.0](https://github.com/boardens/watson/LICENSE/) License
