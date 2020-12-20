@@ -51,6 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porttitor, ip
   - [Display](#Display)
   - [Build](#Build)
 - [Indexing pages](#Indexing-pages)
+  - [Pages](#Pages)
   - [Sections](#Sections)
 
 <hr>
@@ -90,7 +91,7 @@ You can configure many website behaviors by editing `config/config.json`.
 |---|---|
 | `title` | Documentation title |
 | `description` | Documentation description |
-| `theme` | Main css theme |
+| `theme` | Custom color theme |
 | `highlightjs_theme` | Synthax highlighting theme<br>[Find theme list here](https://highlightjs.org/static/demo/) |
 
 
@@ -159,21 +160,33 @@ You can configure sections and pages indexing by editing `config/config.json`.
 }
 ```
 
+### Pages
+
+```json
+{
+  "title":"Lorem ipsum",
+  "src":"lorem-ipsum.md"
+}
+```
+
+| Argument | Description |
+|---|---|
+| `title` | Page title |
+| `src` | Source markdown file |
+
 ### Sections
 
 ```json
 {
   "section":"Lorem ipsum",
-  "items":[
-    {
-      "title":"Lorem ipsum",
-      "src":"lorem-ipsum.md"
-    }
-  ]
+  "items":[]
 }
 ```
 
-Each section contain a list of items, then each items contain in their turn a title and a source markdown file.
+| Argument | Description |
+|---|---|
+| `section` | Section title |
+| `items` | List of pages in this section |
 
 ## License
 
