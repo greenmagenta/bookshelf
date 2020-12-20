@@ -91,7 +91,7 @@ You can configure many website behaviors by editing `config/config.json`.
 | `title` | Documentation title |
 | `description` | Documentation description |
 | `theme` | Main css theme |
-| `highlightjs_theme` | Synthax highlighting theme<br>[Find more themes](https://highlightjs.org/static/demo/) |
+| `highlightjs_theme` | Synthax highlighting theme<br>[Find theme list here](https://highlightjs.org/static/demo/) |
 
 
 #### Build
