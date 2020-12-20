@@ -4,7 +4,7 @@
 > Build a clean and structured documentation in minutes,<br>
 > including tables, flowcharts and many more !
 
-> Try bookshelf on [live demo](https://boardens.github.io/bookshelf-demo/) !
+> Try bookshelf on [live demo](https://boardens.github.io/bookshelf-demo/)
 
 ### Features
 
