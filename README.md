@@ -28,3 +28,14 @@ $ cd bookshelf
 # install the requirements
 $ python3 -m pip install -r requirements.txt
 ```
+
+## Usage
+
+> Learn about usage by reading [documentation](https://boardens.github.io/bookshelf).
+
+...
+
+
+## License
+
+[GPL-3.0](https://github.com/boardens/watson/LICENSE/) License
