@@ -69,11 +69,11 @@ You can configure many website behaviors by editing `config/config.json`.
 },
 ```
 
-| | |
+| Argument | Description |
 |---|---|
-| `lang` | Global language indice |
-| `title` |  |
-| `favicon` |  |
+| `lang` | Web page language indice |
+| `title` | Web page title |
+| `favicon` | Web page favicon |
 
 #### Display
 
@@ -86,12 +86,12 @@ You can configure many website behaviors by editing `config/config.json`.
 },
 ```
 
-| | |
+| Argument | Description |
 |---|---|
-| `title` |  |
-| `description` |  |
-| `theme` |  |
-| `highlightjs_theme` |  |
+| `title` | Documentation title |
+| `description` | Documentation description |
+| `theme` | Main css theme |
+| `highlightjs_theme` | Synthax highlighting theme<br>[Find more themes](https://highlightjs.org/static/demo/) |
 
 
 #### Build
@@ -121,16 +121,17 @@ You can configure many website behaviors by editing `config/config.json`.
 }
 ```
 
-| | |
-|---|---|
-| `index` |  |
-| `meta` |  |
-| `require` |  |
 
-| | |
+| Argument | Description |
 |---|---|
-| `main` |  |
-| `dep` |  |
+| `index` | Index file source |
+| `meta` | Meta list source |
+| `require` | Lists of requirements |
+
+| Argument | Description |
+|---|---|
+| `main` | Main stylesheets and scripts |
+| `dep` | Dependencies from CDN for stylesheets and scripts |
 
 ---
 
@@ -171,6 +172,8 @@ You can configure sections and pages indexing by editing `config/config.json`.
   ]
 }
 ```
+
+Each section contain a list of items, then each items contain in their turn a title and a source markdown file.
 
 ## License
 
