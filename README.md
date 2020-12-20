@@ -162,7 +162,7 @@ You can configure sections and pages indexing by editing `config/config.json`.<b
 
 ### Pages
 
-Please note that the first page should be indexed from source `index.md`.
+Please note that the first page should be indexed as `index.md`.
 
 ```json
 {
