@@ -138,7 +138,8 @@ You can configure many website behaviors by editing `config/config.json`.
 
 ### Indexing pages
 
-You can configure sections and pages indexing by editing `config/config.json`.
+You can configure sections and pages indexing by editing `config/config.json`.<br>
+Please note that the first page should be indexed from source `index.md`.
 
 ```json
 {
