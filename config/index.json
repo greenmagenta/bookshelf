@@ -1,0 +1,17 @@
+{
+	"index":[
+		{
+			"section":"Lorem ipsum",
+			"items":[
+				{
+					"title":"Hello world",
+					"src":"index.md"
+				},
+				{
+					"title":"Components",
+					"src":"components.md"
+				}
+			]
+		}
+	]
+}
