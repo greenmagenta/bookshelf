@@ -123,21 +123,21 @@ You can configure many website behaviors by editing `config/config.json`.
 
 ```json
 {
-	"index":[
-		{
-			"section":"Lorem ipsum",
-			"items":[
-				{
-					"title":"Hello world",
-					"src":"index.md"
-				},
-				{
-					"title":"Components",
-					"src":"components.md"
-				}
-			]
-		}
-	]
+  "index":[
+    {
+      "section":"Lorem ipsum",
+      "items":[
+        {
+          "title":"Hello world",
+          "src":"index.md"
+        },
+        {
+          "title":"Components",
+          "src":"components.md"
+        }
+      ]
+    }
+  ]
 }
 ```
 
