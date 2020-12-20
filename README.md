@@ -1,4 +1,4 @@
-# bookshelf
+# bookshelf <sup>beta</sup>
 📚 Ready-to-deploy markdown documentation builder.
 
 > Build a clean and structured documentation in minutes,<br>
