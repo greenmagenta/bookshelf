@@ -160,23 +160,16 @@ You can configure sections and pages indexing by editing `config/config.json`.
 
 ### Sections
 
-
 ```json
-"section":"Lorem ipsum",
-"items":[]
-```
-
-```json
-"section":"Lorem ipsum",
-"items":[
-  {
-    "title":"Lorem ipsum",
-    "src":"lorem-ipsum.md"
-  },
-  {
-    ...
-  }
-]
+{
+  "section":"Lorem ipsum",
+  "items":[
+    {
+      "title":"Lorem ipsum",
+      "src":"lorem-ipsum.md"
+    }
+  ]
+}
 ```
 
 ## License
