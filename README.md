@@ -192,6 +192,24 @@ Please note that the first page should be indexed as `index.md`.
 | `section` | Section title |
 | `items` | List of pages in this section |
 
+## Deployment
+
+To deploy your documentation, you only have to push in production your `css` folder, `js` folder and your html generated files.
+
+> All external dependencies are automatically included in html generated files.
+
+```
+doc
+├── index.html
+├── ...
+├── js
+|   └── main.js
+└── css
+    ├── style.css
+    └── themes
+        └── default.css
+```
+
 ## License
 
 [GPL-3.0](https://github.com/boardens/watson/LICENSE/) License
