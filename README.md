@@ -160,6 +160,25 @@ You can configure sections and pages indexing by editing `config/config.json`.
 
 ### Sections
 
+
+```json
+"section":"Lorem ipsum",
+"items":[]
+```
+
+```json
+"section":"Lorem ipsum",
+"items":[
+  {
+    "title":"Lorem ipsum",
+    "src":"lorem-ipsum.md"
+  },
+  {
+    ...
+  }
+]
+```
+
 ## License
 
 [GPL-3.0](https://github.com/boardens/watson/LICENSE/) License
