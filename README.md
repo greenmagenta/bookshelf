@@ -10,7 +10,7 @@
 
 - Markdown-inherited features
 - Fenced code blocks
-- Fully editable structure
+- Editables sections structure
 - Mermaid flowcharts
 - Customizable themes
 
