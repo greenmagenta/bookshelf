@@ -162,7 +162,7 @@ You can configure sections organisation and pages indexing by editing `config/co
 }
 ```
 
-### Pages
+#### Pages
 
 > Please note that the first page should be indexed as `index.md`.
 
@@ -178,7 +178,7 @@ You can configure sections organisation and pages indexing by editing `config/co
 | `title` | Page title |
 | `src` | Source markdown file |
 
-### Sections
+#### Sections
 
 ```json
 {
