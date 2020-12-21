@@ -60,7 +60,7 @@ Bookshelf allow you to easily build any documentation by writing all your pages 
 
 ### Configuration
 
-You can configure many website behaviors by editing `config/config.json`.
+You can configure general website behaviors and displays by editing `config/config.json`.
 
 #### Head
 
