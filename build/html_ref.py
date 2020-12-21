@@ -17,7 +17,7 @@ body_open = "<body>"
 body_close = "</body>"
 
 body_article_open = "<div class=\"content\"><div class=\"article\"><div>"
-body_article_close = "<br><button class=\"button\" onclick=\"move_to(0)\">Previous page</button>&nbsp;&nbsp;<button class=\"button\" onclick=\"move_to(1)\">Next page</button></div><br></div></div>"
+body_article_close = "<br><br><br><button class=\"button\" onclick=\"move_to(0)\">Previous page</button>&nbsp;&nbsp;<button class=\"button\" onclick=\"move_to(1)\">Next page</button></div><br></div></div>"
 
 # body_bottom = "<div class=\"bottom\">{description}</div>"
 
