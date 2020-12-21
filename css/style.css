@@ -243,7 +243,8 @@ a#toggle-sidebar.rotate {
 	background: none;
 	padding: 0;
 	color: none;
-	overflow-x: hidden
+	white-space: pre;
+	overflow-x: auto;
 }
 
 /* responsive */
