@@ -1,2 +1,2 @@
 markdown
-md-mermaid
+md-mermaid==0.1.0
