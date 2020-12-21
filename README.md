@@ -2,7 +2,7 @@
 📚 Ready-to-deploy markdown documentation builder.
 
 > Build a clean and structured documentation in minutes,<br>
-> including tables, flowcharts and many more !
+> including diagrams, flowcharts and many more !
 
 > Try bookshelf on [live demo](https://boardens.github.io/bookshelf-demo/components.html)
 
@@ -11,7 +11,7 @@
 - Markdown-inherited features
 - Fenced code blocks
 - Editables sections structure
-- Mermaid flowcharts
+- Mermaid integration
 - Customizable themes
 
 ## Get started
