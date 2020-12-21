@@ -44,7 +44,7 @@ $ bookshelf.py
 
 > Learn about usage by reading [documentation](https://boardens.github.io/bookshelf).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porttitor, ipsum eu condimentum sagittis, mauris lorem dignissim quam, vel suscipit nisl magna quis nisl. Morbi tempus mollis quam ac iaculis. Donec faucibus orci in dolor placerat sollicitudin. Nunc ante massa, hendrerit dignissim velit eget, dictum rutrum tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed condimentum, diam a laoreet porta, urna urna iaculis sapien, sit amet tristique sapien risus nec nibh. Suspendisse pulvinar purus nibh, in feugiat felis porta nec. Etiam ac tortor ut neque interdum eleifend non et dui. Mauris nec faucibus sem.
+Bookshelf allow you to easily build any documentation by writing all your pages in markdown. Once the builder is configured, each time you'll want to add, update or remove a page, you'll only need to update the index file and push your generated html to the production.
 
 #### Summary
 
