@@ -140,7 +140,7 @@ You can configure general website behaviors and displays by editing `config/conf
 
 ### Indexing pages
 
-You can configure sections and pages indexing by editing `config/config.json`.<br>
+You can configure sections organisation and pages indexing by editing `config/config.json`.<br>
 
 ```json
 {
