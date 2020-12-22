@@ -1,0 +1,84 @@
+/* dark theme */
+
+body, html {
+	background-color: #0d1117 !important;
+	color: #c9d1d9 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #c9d1d9 !important;
+	border-color: #21262d !important;
+}
+
+a {
+	color: #58a6ff !important;
+}
+
+hr {
+	background-color: #21262d !important;
+}
+
+code {
+	color: #c9d1d9 !important;
+}
+
+pre, code, blockquote {
+	background-color: #161b22 !important;
+}
+
+blockquote {
+	border-color: #3b434b !important;
+	color: #8b949e !important;
+}
+
+.sidebar, .top {
+	background-color: #0d1117 !important;
+	border-color: #21262d !important;
+}
+
+.title {
+	color: #c9d1d9 !important;
+}
+
+.side-action {
+	background-color: rgba(13, 17, 23, 0.5) !important;
+}
+
+.sidebar .list li a {
+	color: #8b949e !important;
+}
+
+.sidebar .list li a:hover {
+	color: #c9d1d9 !important;
+}
+
+.sidebar .list li a.active {
+	background-color: #161b22 !important;
+	color: #c9d1d9 !important;
+}
+
+.top .list p, .top .list p a {
+	color: #8b949e !important;
+}
+
+table {
+	border-color: #3b434b !important;
+	background-color: #0d1117 !important;
+}
+
+table tr td,
+table tr th {
+	border-color: #3b434b !important;
+	color: #c9d1d9 !important;
+}
+
+.button {
+	background-color: #0d1117 !important;
+	color: #c9d1d9 !important;
+	border-color: #161b22 !important;
+	transition: 0.2s;
+}
+
+.button:hover {
+	border-color: #3b434b !important;
+}
