@@ -241,10 +241,15 @@ a#toggle-sidebar.rotate {
 /* hljs reset */
 .hljs {
 	background: none;
-	padding: 0;
+	/*padding: 0;*/
 	color: none;
 	white-space: pre;
 	overflow-x: auto;
+	padding: 1.25em 1.5em;
+}
+
+.content pre {
+	padding: 0;
 }
 
 /* responsive */
