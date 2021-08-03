@@ -1,5 +1,5 @@
 # bookshelf <sup>beta</sup>
-📚 Ready-to-deploy markdown documentation builder.
+📚 Ready-to-deploy markdown static documentation builder.
 
 > Build a clean and structured documentation in minutes,<br>
 > including diagrams, flowcharts and many more !
