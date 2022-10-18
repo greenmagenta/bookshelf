@@ -4,8 +4,6 @@
 > Build a clean and structured documentation in minutes,<br>
 > including diagrams, flowcharts and many more !
 
-> Try bookshelf on [live demo](https://boardens.github.io/bookshelf-demo/components.html)
-
 ### Features
 
 - Markdown-inherited features
@@ -20,7 +18,7 @@
 
 ```bash
 # clone the repository
-$ git clone https://github.com/boardens/bookshelf.git
+$ git clone https://github.com/greenmagenta/bookshelf.git
 
 # change the working directory to bookshelf
 $ cd bookshelf
@@ -214,4 +212,4 @@ If you're using FTP pushes, take a look at [git-ftp](https://github.com/git-ftp/
 
 ## License
 
-[GPL-3.0](https://github.com/boardens/watson/LICENSE/) License
+[GPL-3.0](https://github.com/greenmagenta/watson/LICENSE/) License
